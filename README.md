@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shammy - codedabbler.com
+- 👋 Hi, I’m @shammy - [http://codedabbler.com]
 - 👀 I’m interested in all things frontend
 - 🌱 I’m currently learning microfrontends, vue3
 - 💞️ I’m looking to collaborate on microfrontends
