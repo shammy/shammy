@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shammy
+- 👋 Hi, I’m @shammy - codedabbler.com
 - 👀 I’m interested in all things frontend
-- 🌱 I’m currently learning microfrontends
+- 🌱 I’m currently learning microfrontends, vue3
 - 💞️ I’m looking to collaborate on microfrontends
 - 📫 How to reach me sharmishtha.dhuri@gmail.com
 
